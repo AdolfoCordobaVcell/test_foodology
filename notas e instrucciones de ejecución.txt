@@ -1,0 +1,5 @@
+Desarrolle mi código en el entorno de windows, asi que para la ejecución del script se requieren
+las sig. instalaciones:
+
+pip install pandas
+pip install matplotlib
